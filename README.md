@@ -21,3 +21,12 @@ Connect to databases
 
 Send emails, etc.
 
+
+# 🔷 What is npm? (Node Package Manager)
+Now imagine this:
+
+You're building a big JavaScript project. Instead of writing everything yourself (like sending email, connecting to databases, or creating a login system), you can use ready-made tools (called "packages" or "libraries").
+
+That’s where npm comes in.
+
+🔹 npm = App Store for Node.js
