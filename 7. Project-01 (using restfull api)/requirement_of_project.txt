@@ -1,0 +1,15 @@
+REST API - JSON
+
+
+TODO
+
+1. GET  /users -> fetch all users either with their name or age.
+GET  /api/users/1 -> fetches only user with data 1
+GET  /api/users/2 -> fetches only user with data 2
+
+2. POST -> Create new user and store in DB
+
+3. PATCH  /api/users/1 -> update the data with id 1
+
+4. DELETE  /api/users/1 -> delete the data with id 1
+'
